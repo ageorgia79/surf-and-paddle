@@ -1,0 +1,160 @@
+body {
+	margin: 0;
+}
+
+.header h1 {
+	font-size: 19px;
+	font-family: geogrotesque;
+	display: inline-block;
+}
+
+
+.header h3 {
+	font-size: 15px;
+	text-indent: 299px;
+	display: inline-block;
+	font-family: sans-serif;
+	margin: 0;
+	position: relative;
+	top: 120;
+
+}
+.header h2 {
+	font-size: 105px;
+	color: white;
+	font-family: geogrotesque;
+	display: inline-block;
+	text-align: center;
+	margin: 0;
+	position: relative;
+	top: 136;
+
+}
+
+
+.header {
+	height: 525px;
+	background: url('http://4.bp.blogspot.com/-5btEd9HoA9E/Ua7MuibZ1cI/AAAAAAAAAa0/OZnwDmq82Sw/s1600/ocean-wave.jpg') no-repeat;
+	background-size: cover;
+	
+}
+
+.container {
+	position: relative;
+	width: 960px;
+	margin: 0 auto;
+}
+
+.header li {
+	display: inline-block;
+	float: right;
+	font-size: 19px;
+	font-family: geogrotesque;}
+
+.top-nav {
+	display: inline-block;
+	position: absolute;
+	right: 0;
+}
+.about {
+	display: inline-block;
+}
+.search {
+	display: inline-block;
+	margin-left: 10px;
+}
+.main h4 {
+	font-size: 57px;
+	max-width: 732px;
+	font-family: geogrotesque;
+	position: relative;
+	padding: 160px;
+	padding-bottom: 0;
+	margin: 0;
+	padding-top: 67;
+	padding-right: 0;
+	line-height: 1;
+	display: inline-block;
+
+}
+.main h1 {
+	font-size: 14px;
+	padding-left: 160px;
+	margin: 0;
+	display: block;
+}
+.par1 p {
+	font-size: 16px;
+	font-family: sans-serif;
+	max-width: 614px;
+	padding-left: 160px;
+	padding-right: 0px;
+	padding-top: 44px;
+	display: inline-block;
+	margin: 0 auto;
+
+}
+.par1anx p {
+	font-size: 16px;
+	font-family: sans-serif;
+	max-width: 614px;
+	padding-left: 160px;
+	padding-right: 0px;
+	padding-top: 37px;
+	display: inline-block;
+	margin: 0 auto;
+}
+
+.par2 p {
+	color: #1175C0;
+	font-family: sans-serif;
+	font-size: 24px;
+	padding-left: 183px;
+	padding-top: 47px;
+	padding-right: 0px;
+	margin: 0 auto;
+}
+.par3 p {
+	font-size: 16px;
+	max-width: 618;
+	font-family: sans-serif;
+	padding-left: 158px;
+	padding-right: 0px;
+	padding-top: 48px;
+	display: inline-block;
+	margin: 0 auto;
+}
+.par3anx p {
+	font-size: 16px;
+	max-width: 618;
+	font-family: sans-serif;
+	padding-left: 158px;
+	padding-right: 0px;
+	padding-top: 36px;
+	padding-bottom: 124px;
+	display: inline-block;
+	margin: 0 auto;
+}
+.pagebreak {
+	width: 100%;
+	margin: 0;
+
+}
+.MPP p {
+	text-align: center;
+	padding-left: 365px;
+	padding-top: 44px;
+	font-size: 57px;
+	font-family: geogrotesque;
+
+}
+
+
+
+
+
+
+
+
+
+
